@@ -1,4 +1,6 @@
-# Git commands
+# Git (version control software)
+
+## Commands -
 
 ### 1. git init
 
@@ -25,3 +27,7 @@ Shows the files in "Staging area".
 ### 6. git rm [file('s) name('s)]
 
 Removes the files from repository and from "staging area".
+
+### 7. git diff
+
+Shows the difference between different commits and staging areas
