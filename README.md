@@ -31,3 +31,9 @@ Removes the files from repository and from "staging area".
 ### 7. git diff
 
 Shows the difference between different commits and staging areas
+
+### 8. git log (--oneline)
+
+Shows us the log details of the repo.
+
+--oneline shows single line of each commit.
