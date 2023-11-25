@@ -37,3 +37,7 @@ Shows the difference between different commits and staging areas
 Shows us the log details of the repo.
 
 --oneline shows single line of each commit.
+
+### 9. git show (commit id or referance)
+
+Describes the changes made in that commit.
