@@ -45,3 +45,7 @@ Describes the changes made in that commit.
 ### 10. '.gitignore' file
 
 It is a type of file used for ignoring files that aren't nessary or too large to commit.
+
+### 11. git branch (-c "name of the branch")
+
+This will create a new branch that can be used for testing purpouses!
