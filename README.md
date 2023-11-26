@@ -41,3 +41,7 @@ Shows us the log details of the repo.
 ### 9. git show (commit id or referance)
 
 Describes the changes made in that commit.
+
+### 10. '.gitignore' file
+
+It is a type of file used for ignoring files that aren't nessary or too large to commit.
